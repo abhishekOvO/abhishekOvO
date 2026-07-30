@@ -15,9 +15,10 @@
 - 📩 Open to Software Engineering, Full-Stack Development, Backend Development, and AI/ML opportunities.
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhishekOvO&theme=radical&hide_border=true&cache_seconds=86400" alt="abhishekOvO's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abhishekOvO&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
